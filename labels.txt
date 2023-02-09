@@ -1,0 +1,7 @@
+0 pose1
+1 pose2
+2 pose3
+3 pose4
+4 pose5
+5 soap
+6 non
